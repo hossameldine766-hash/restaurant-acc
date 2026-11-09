@@ -19,7 +19,8 @@
 * التحويل لملف تنفيذي: PyInstaller
 
 ## 📸 لقطات من البرنامج (Screenshots)
-*(قم بسحب وإفلات صور البرنامج هنا)*
+*(<img width="1920" height="1021" alt="Capture3" src="https://github.com/user-attachments/assets/af6d23a8-69b5-4b80-ba70-9ee0041f187a" />
+)*
 ![شاشة الفواتير](app.ico)
 
 ## ⚙️ كيفية التشغيل (How to Run)
