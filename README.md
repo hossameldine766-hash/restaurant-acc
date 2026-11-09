@@ -16,7 +16,9 @@
 * التحويل لملف تنفيذي: PyInstaller
 
 ## 📸 لقطات من البرنامج (Screenshots)
-![شاشة الفواتير](app.ico)
+<div align="center">
+  <img src="app.ico" alt="Chef Icon" width="200">
+</div>
 <img width="1920" height="1021" alt="Capture3" src="https://github.com/user-attachments/assets/f5b76153-104d-4d9c-ac97-e320f9bb9ab3" />
 
 ## ⚙️ كيفية التشغيل (How to Run)
