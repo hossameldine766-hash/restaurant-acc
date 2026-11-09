@@ -1,0 +1,8 @@
+.venv/
+.idea/
+pycache/
+*.db
+build/
+dist/
+bill_images/
+sales_images/
